@@ -1,4 +1,9 @@
-## Hi there 👋
+## Howdy!
+My name is Robert, and I am a homeschooler from Texas, USA.
+
+## Skills
+I am currently learning C# and cross-platform application development with .NET MAUI.
+
 
 <!--
 **theRADfarmer/theRADfarmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
