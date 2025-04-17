@@ -2,8 +2,13 @@
 My name is Robert, and I am a homeschooler from Texas, USA.
 
 ## Skills
-I am currently learning C# and cross-platform application development with .NET MAUI.
+I develop websites using C# and ASP.NET Core.
 
+## Projects
+I am working on my website where I will offer website building and hosting management services targeting small, local businesses.
+
+## How to reach me
+You can contact me at [theradfarmer@gmail.com](mailto:theradfarmer@gmail.com)
 
 <!--
 **theRADfarmer/theRADfarmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
